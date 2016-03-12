@@ -1,0 +1,11 @@
+{
+  "name": "simpleclient",
+  "version": "0.0.1",
+  "description": "",
+  "author": "Andreas Magvas",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.1.7",
+    "prompt": "^1.0.0"
+  }
+}
